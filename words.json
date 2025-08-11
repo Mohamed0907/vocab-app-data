@@ -2,31 +2,37 @@
   {
     "word": "Cat",
     "translation": "قطة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/cat.png"
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/cat.png",
+    "category": "حيوانات"
   },
   {
     "word": "Dog",
     "translation": "كلب",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/dog.png"
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/dog.png",
+    "category": "حيوانات"
   },
   {
     "word": "House",
     "translation": "منزل",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/house.png"
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/house.png",
+    "category": "أشياء"
   },
   {
     "word": "Sun",
     "translation": "شمس",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/sun.png"
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/sun.png",
+    "category": "أشياء"
   },
   {
     "word": "Car",
     "translation": "سيارة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/car.png"
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/car.png",
+    "category": "أشياء"
   },
   {
     "word": "Ball",
     "translation": "كرة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/ball.png"
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/ball.png",
+    "category": "أشياء"
   }
 ]
