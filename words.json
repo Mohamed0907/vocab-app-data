@@ -2,7 +2,7 @@
   {
     "word": "Cat",
     "translation": "قطة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Cat.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/cat.png",
     "category": "حيوانات",
     "difficulty": "مبتدئ",
     "masteryLevel": 0
@@ -10,7 +10,7 @@
   {
     "word": "Dog",
     "translation": "كلب",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Dog.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/dog.png",
     "category": "حيوانات",
     "difficulty": "مبتدئ",
     "masteryLevel": 0
@@ -18,7 +18,7 @@
   {
     "word": "House",
     "translation": "منزل",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/House.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/house.png",
     "category": "أشياء",
     "difficulty": "مبتدئ",
     "masteryLevel": 0
@@ -26,7 +26,7 @@
   {
     "word": "Sun",
     "translation": "شمس",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Sun.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/sun.png",
     "category": "أشياء",
     "difficulty": "مبتدئ",
     "masteryLevel": 0
@@ -42,7 +42,7 @@
   {
     "word": "Ball",
     "translation": "كرة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Ball.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/ball.png",
     "category": "أشياء",
     "difficulty": "مبتدئ",
     "masteryLevel": 0
@@ -100,6 +100,14 @@
     "translation": "ثورة",
     "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Revolution.png",
     "category": "Concepts",
+    "difficulty": "متقدم",
+    "masteryLevel": 0
+  },
+  {
+    "word": "Man",
+    "translation": "رجل",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/man.png",
+    "category": "أشخاص",
     "difficulty": "متقدم",
     "masteryLevel": 0
   }
