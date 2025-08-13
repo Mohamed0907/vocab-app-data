@@ -2,7 +2,7 @@
   {
     "word": "Cat",
     "translation": "قطة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/cat.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Cat.png",
     "category": "حيوانات",
     "difficulty": "مبتدئ",
     "masteryLevel": 0
@@ -10,7 +10,7 @@
   {
     "word": "Dog",
     "translation": "كلب",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/dog.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Dog.png",
     "category": "حيوانات",
     "difficulty": "مبتدئ",
     "masteryLevel": 0
@@ -18,7 +18,7 @@
   {
     "word": "House",
     "translation": "منزل",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/house.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/House.png",
     "category": "أشياء",
     "difficulty": "مبتدئ",
     "masteryLevel": 0
@@ -26,7 +26,7 @@
   {
     "word": "Sun",
     "translation": "شمس",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/sun.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Sun.png",
     "category": "أشياء",
     "difficulty": "مبتدئ",
     "masteryLevel": 0
@@ -42,7 +42,7 @@
   {
     "word": "Ball",
     "translation": "كرة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/ball.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Ball.png",
     "category": "أشياء",
     "difficulty": "مبتدئ",
     "masteryLevel": 0
@@ -50,7 +50,7 @@
   {
     "word": "Computer",
     "translation": "حاسوب",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/computer.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Computer.png",
     "category": "Technology",
     "difficulty": "متوسط",
     "masteryLevel": 0
@@ -66,7 +66,7 @@
   {
     "word": "Mountain",
     "translation": "جبل",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/mountain.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Mountain.png",
     "category": "Nature",
     "difficulty": "متوسط",
     "masteryLevel": 0
@@ -74,7 +74,7 @@
   {
     "word": "Friendship",
     "translation": "صداقة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/friendship.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Friendship.png",
     "category": "Concepts",
     "difficulty": "متقدم",
     "masteryLevel": 0
@@ -82,7 +82,7 @@
   {
     "word": "Knowledge",
     "translation": "معرفة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/knowledge.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Knowledge.png",
     "category": "Concepts",
     "difficulty": "متقدم",
     "masteryLevel": 0
@@ -98,7 +98,7 @@
   {
     "word": "Revolution",
     "translation": "ثورة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/revolution.png",
+    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/Revolution.png",
     "category": "Concepts",
     "difficulty": "متقدم",
     "masteryLevel": 0
