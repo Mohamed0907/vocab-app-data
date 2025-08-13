@@ -1,38 +1,98 @@
 [
   {
-    "word": "Cat",
-    "translation": "قطة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/cat.png",
-    "category": "حيوانات"
+    "word": "Apple",
+    "translation": "تفاحة",
+    "image": "https://images.unsplash.com/photo-1579613619553-6b74a2f8c5c7",
+    "category": "Food",
+    "difficulty": "مبتدئ",
+    "masteryLevel": 0
   },
   {
-    "word": "Dog",
-    "translation": "كلب",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/dog.png",
-    "category": "حيوانات"
-  },
-  {
-    "word": "House",
-    "translation": "منزل",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/house.png",
-    "category": "أشياء"
-  },
-  {
-    "word": "Sun",
-    "translation": "شمس",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/sun.png",
-    "category": "أشياء"
+    "word": "Book",
+    "translation": "كتاب",
+    "image": "https://images.unsplash.com/photo-1544947953-6c8c9354070a",
+    "category": "Objects",
+    "difficulty": "مبتدئ",
+    "masteryLevel": 0
   },
   {
     "word": "Car",
     "translation": "سيارة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/car.png",
-    "category": "أشياء"
+    "image": "https://images.unsplash.com/photo-1549317524-7833a6b3d4f8",
+    "category": "Transportation",
+    "difficulty": "مبتدئ",
+    "masteryLevel": 0
   },
   {
-    "word": "Ball",
-    "translation": "كرة",
-    "image": "https://raw.githubusercontent.com/Mohamed0907/vocab-app-data/main/images/ball.png",
-    "category": "أشياء"
+    "word": "Dog",
+    "translation": "كلب",
+    "image": "https://images.unsplash.com/photo-1583511659779-e157b5c00e62",
+    "category": "Animals",
+    "difficulty": "مبتدئ",
+    "masteryLevel": 0
+  },
+  {
+    "word": "House",
+    "translation": "منزل",
+    "image": "https://images.unsplash.com/photo-1564013799919-ff37a4056506",
+    "category": "Buildings",
+    "difficulty": "مبتدئ",
+    "masteryLevel": 0
+  },
+  {
+    "word": "Computer",
+    "translation": "حاسوب",
+    "image": "https://images.unsplash.com/photo-1525544778401-209252c10b78",
+    "category": "Technology",
+    "difficulty": "متوسط",
+    "masteryLevel": 0
+  },
+  {
+    "word": "Chair",
+    "translation": "كرسي",
+    "image": "https://images.unsplash.com/photo-1567538096627-b50a2de0b561",
+    "category": "Furniture",
+    "difficulty": "متوسط",
+    "masteryLevel": 0
+  },
+  {
+    "word": "Mountain",
+    "translation": "جبل",
+    "image": "https://images.unsplash.com/photo-1526543166567-0c7f766e4a2d",
+    "category": "Nature",
+    "difficulty": "متوسط",
+    "masteryLevel": 0
+  },
+  {
+    "word": "Friendship",
+    "translation": "صداقة",
+    "image": "https://images.unsplash.com/photo-1522867809516-e4d6a8362141",
+    "category": "Concepts",
+    "difficulty": "متقدم",
+    "masteryLevel": 0
+  },
+  {
+    "word": "Knowledge",
+    "translation": "معرفة",
+    "image": "https://images.unsplash.com/photo-1526470876116-0275811776ce",
+    "category": "Concepts",
+    "difficulty": "متقدم",
+    "masteryLevel": 0
+  },
+  {
+    "word": "Challenge",
+    "translation": "تحدي",
+    "image": "https://images.unsplash.com/photo-1616788220037-4d7a8d7a1e0b",
+    "category": "Concepts",
+    "difficulty": "متقدم",
+    "masteryLevel": 0
+  },
+  {
+    "word": "Revolution",
+    "translation": "ثورة",
+    "image": "https://images.unsplash.com/photo-1594916892520-2c70034a742b",
+    "category": "Concepts",
+    "difficulty": "متقدم",
+    "masteryLevel": 0
   }
 ]
